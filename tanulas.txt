@@ -1,2 +1,3 @@
 Ez az első módosítás, amit a git-re rakok fel
 ez már a gyakorláson belüli módosítás 
+ez egy újabb módosítás ezen az ágon
